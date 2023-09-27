@@ -4,9 +4,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Lookup - Add an empty item to the dropdown list
+# WinForms Lookup - Add an empty item to the drop-down list
 
-This example demonstrates how to display an empty (blank) item in the dropdown of the WinForms LookUpEdt control. You can also use this technique to display an empty item in the `GridLookUpEdit`.
+This example demonstrates how to display an empty (blank) item in the dropdown of the WinForms LookUpEdit control. You can also use this technique to display an empty item in the `GridLookUpEdit`.
 
 
 ## Files to Review
