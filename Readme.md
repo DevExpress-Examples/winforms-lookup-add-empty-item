@@ -21,7 +21,7 @@ This example demonstrates how to display an empty (blank) item in the dropdown o
 * [WinForms Data Grid - Add custom data rows](https://github.com/DevExpress-Examples/winforms-grid-display-custom-rows)
 * [How to clear the currently selected value in the LookUp editor](https://supportcenter.devexpress.com/ticket/details/a359/how-to-clear-the-currently-selected-value-in-the-lookup-editor)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-lookup-add-empty-item&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-lookup-add-empty-item&~~~was_helpful=no)
 
